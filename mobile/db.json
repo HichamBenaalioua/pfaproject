@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "username": "hicham",
+      "password": "hicham",
+      "demandes": [
+        {
+          "objet": "objethicham1",
+          "text": "demandemessagetext"
+        },
+        {
+          "objet": "objethicham2",
+          "text": "demandemessagetext"
+        }
+      ]
+    },
+    {
+      "username": "ali",
+      "password": "ali",
+      "demandes": [
+        {
+          "objet": "objet2",
+          "text": "demandemessage2text"
+        },
+        {
+          "objet": "objet2",
+          "text": "demandemessage2text"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "matier": {
+        "id": 1
+      },
+      "etudiant": {
+        "id": 2
+      },
+      "date": "09/2024",
+      "payed": true
+    }
+  ]
+}
